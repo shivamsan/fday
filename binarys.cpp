@@ -23,7 +23,7 @@ ub = mid-1;
 }
 else
 {
-ub=mid+1;
+lb=mid+1;
 }
 
 }
